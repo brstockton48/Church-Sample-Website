@@ -1,0 +1,11 @@
+
+body{
+	background-color: lightblue;
+}
+nav ul{
+	list-style: none;
+	text-decoration: none;
+}
+nav ul li{
+	display: inline-block;
+}

@@ -1,0 +1,232 @@
+1.  Mount Olive Baptist Church Home
+    	   <section>
+  			<h1>Mount Olive Baptist Church</h1>
+
+			<h3>At Mount Olive we are just like family</h3>
+                
+                		<p>Thank you so much for visiting our site.  At Mount Olive we understand the importance of loving God and loving others.  It is one thing to say we are like family, but here we put these words into practice.  While it may sound cliche to some, we understand one very important truth and we allow that to be one of our guiding principles.  "People will not care how much we know until they know how much we care".  Mount Olive feels like home because there is a strong sense of community among believers. Please come check us out this Sunday and see firsthand that we are a church who truly loves God and cares for others.</p>
+                		<p>To the right, you will find service times, upcoming events and the sermon of the week.  To the left, you will find the menu that will lead to the rest of our site.  Our hope is that once you have explored our site, you will want to come see us in person.  Below is a brief description of what is contained in each section.  </p>	           		<p>Our Mission - Visit this page to find out what we are trying to accomplish</p>
+	           		<p>Our History - Visit this page to find out where we have been, where we are now, and where we are going</p>
+	           	<ul>
+				<p>Our Beliefs - Visit this page to discover the core beliefs that bond us together</p>
+	           		<p>Media Gallery - The old saying is true, a picture is worth 1,000 words</p>
+	           		<p>The Bible - Find out what is so important about this book</p>
+	           		<p>Contact Us - We are here for you and want to hear from you</p>
+           		</ul>
+	    </section>
+	    <aside>
+	    		<h3>Weekly Schedule</h3>
+	    		<h4>Sunday Morning</h4>
+                	<p>Sunday School - 10:00</p>
+                	<p>Worship Service - 11:00</p>
+               	 	<h4>Wednesday Evening</h4>
+                	<p>Mid Week Dinner - 5:00</p>
+                	<p>Worship Service - 6:00</p>
+                	<h4>Upcoming Events</h4>
+                	<p>Country Block Party <br> May 11th at 12:00 PM </p>
+                	<p>Vacation Bible School <br> Aug 5-7 from 6-8 PM </p>
+                	<h4>Sermon of the Week</h4>
+			<iframe allowfullscreen="0" width="250" height="180" controls
+			source src="https://www.youtube.com/embed/h9vOhB8njWQ">
+			</iframe>				
+	    </aside>
+
+ 
+
+2.  Mount Olive Baptist Church Mission
+    
+		<h1>Mount Olive Mission</h1>
+		<section>
+                <h4>Our Mission is to bring glory to God and seek to build His Kingdom through our lives and through our church</h4>
+                
+                <p>This mission statement may sound like something you have heard before.  We here at Mount Olive fully realize that these words are meaningless unless they are accompanied by action.  But in order to take action, we must first understand what this statement means. Below is a list of tangible things we can do to help carry out this mission.</p>
+				<ul>
+	           		<p>Go to church every Sunday <br>
+	           		Share our story with others <br>
+	           		Read our Bibles daily <br>
+	           		Pray Daily <br>
+	           		Serve in the church <br>
+	           		Serve in the community <br>
+	           		Give time and resources to oversees and local missions.  Please check out mission videos on the right side of the screen <br>
+	           		Give time and resources to local worthy causes (e.g Disaster Relief)</p>
+           		</ul>
+           		<p>In theory, it is easy to be on mission, but in practice it is not quite as simple.  In other words, these are not just things to be done and checked off a list.  The fact is that we can go through the motion of doing all these things but not carry out the mission because we do it with the wrong motive or wrong attitude.  In other words, the things on this list should be the results of a church or an individual on mission for God.  We believe as a church, our responsibility is to teach the importance of having a mission and providing opportunities to carry out that mission</p>
+	    </section>
+	    <aside>
+	    		<h4>Upcoming Events</h4>
+                	<p>Country Block Party <br> May 11th at 12:00 PM </p>
+                	<p>Vacation Bible School <br> Aug 5-7 from 6-8 PM </p>
+                	<br>
+                	<h4>Mission Videos</h4>
+			<iframe allowfullscreen="0" width="250" height="180" controls
+			source src="https://www.youtube.com/embed/v23sefu4dBA">
+			</iframe>	
+			<iframe allowfullscreen="0" width="250" height="180" controls
+			source src="https://www.youtube.com/embed/DRM6mVttJsY">
+			</iframe>		
+	    </aside>
+
+3.  Mount Olive Baptist Church History
+	   <section>
+                <h1>Mount Olive History</h1>
+                <p>Below you will find a brief history of our church. The history of an organization often incudes the names of people who made significant contributions.  The absence of those names and even pastors is not to diminish their importance but rather to emphasize that the history of this church has been accomplished through the providence of God</p>
+                
+                <h3>Early Years</h3>
+                
+                <p>Mount Olive Baptist Church has a rich history that dates all the way back to 1873.  The Civil War left a wake of devastation but the original members were committed to their faith.  They met outside under the trees and the membership consisted mostly of widows, orphans and Civil War veterans and their families.  It wasn’t until sometime in 1874 that land was donated and a building for worship was constructed.  The church did very well in its first 60 years of existence and saw a great number of people touched, encouraged and changed by the Gospel.  Despite early success, however, the church went through some rough years in the late 1920s and ultimately had to close its doors in 1933.</p>
+
+                <h3>1940 - 1990</h3>
+
+                <p>Fortunately the church lived to see another day.  On September 29th, 1940 they re-opened with a renewed sense of vigor and saw substantial growth in the first few years.  The years between 1940 and 1990 were marked by forward progress that could be visibly seen by six different building projects and renovations.</p>
+
+                <h3>Recent History</h3>
+
+                <p>Since 1990, the area surrounding the church has been marked by a decline in population and younger families have migrated to Yemassee and other areas of Hampton County.  Nonetheless, Mount Olive Baptist Church continues to seek ways to reach every successive generation.</p>
+
+           		
+	    </section>
+	    <aside>
+	    		<h3>Weekly Schedule</h3>
+	    		<h4>Sunday Morning</h4>
+                	<p>Sunday School - 10:00</p>
+                	<p>Worship Service - 11:00</p>
+                	<h4>Wednesday Evening</h4>
+                	<p>Mid Week Dinner - 5:00</p>
+                	<p>Worship Service - 6:00</p>
+                	<h4>Upcoming Events</h4>
+                	<p>Country Block Party <br> May 11th at 12:00 PM </p>
+                	<p>Vacation Bible School <br> Aug 5-7 from 6-8 PM </p>
+                	<br>
+                	<p>Sermon of the Week</p>
+			<iframe allowfullscreen="0" width="250" height="180" controls
+			source src="https://www.youtube.com/embed/h9vOhB8njWQ">
+			</iframe>		
+	    </aside>
+
+4.  Mount Olive Baptist Church Beliefs
+   
+	   <section>
+                <h1>Mount Olive Beliefs</h1>
+                <p>Mount Olive Baptist Church in full agreement and compliance with the 2000 Baptist Faith and Message <a href="http://www.sbc.net/bfm2000/bfm2000.asp">2000 BF&M</a>  This is not a creedal statement or list of rules but rather a document that binds us together as Southern Baptists.  Listed below are a few of the highlights of what we believe</p>
+
+				<p><em>The Bible</em><br>Please check out the Bible link for a full explanation</p>
+				
+				<p><em>The Trinity</em><br>We believe in the Triune God: Father, Son and Holy Spirit.  He is One God, yet three Persons.  Although the word Trinity never appears in Scripture, we see a beautiful picture of it at Jesus’ Baptism.  Matthew 3:16-17</p>
+
+				<p><em>Mankind, the Fall and Salvation</em><br>We have been created in the image of God in order to glorify Him and have fellowship with Him.  When Adam and Eve sinned, that fellowship was broken.  As a result, man is imperfect and completely unable to save himself.  The sinfulness of man made it necessary for God to send His Son Jesus Christ, God in the flesh, to serve as a substitute.  When Jesus died on the cross, He paid the full penalty for sin.  He bore the full wrath of God on our behalf so that we could be saved and He has made the gift available to anyone who truly believes.</p> 
+
+				<p><em>The Church</em><br>We believe that the church exists to bring honor and glory to God by serving Jesus Christ and carrying out the Great Commission found in the Gospels.</p>        
+	    </section>
+	     <aside>
+	    		<h3>Weekly Schedule</h3>
+	    		<h4>Sunday Morning</h4>
+                	<p>Sunday School - 10:00</p>
+                	<p>Worship Service - 11:00</p>
+                	<h4>Wednesday Evening</h4>
+                	<p>Mid Week Dinner - 5:00</p>
+                	<p>Worship Service - 6:00</p>
+                	<h4>Upcoming Events</h4>
+                	<p>Country Block Party <br> May 11th at 12:00 PM </p>
+                	<p>Vacation Bible School <br> Aug 5-7 from 6-8 PM </p>
+                	<h4>Sermon of the Week</h4>
+			<iframe allowfullscreen="0" width="250" height="180" controls
+			source src="https://www.youtube.com/embed/h9vOhB8njWQ">
+			</iframe>		
+	    </aside>
+5. Mount Olive Baptist Church Media Gallery
+
+
+	    <section>
+			<h1>Mount Olive Media Gallery</h1>
+            		<p>Welcome to the Mount Olive Baptist Church Media Gallery.  We here at Mount Olive believe the age old saying that a picture is worth 1,000 words.  The same could and should be said about videos.  For that reason, we do our best to incorporate the use of media into our services.  This would include music videos with words so that our congregation can sing along.  In addition, we incorporate the use of Powerpoint and video clips into our messages each and every week. Our reasoning for this is that we believe someone is much more likely to remember and retain information if they have both heard and seen it.  It is often easy to forget the words that are said, it is much more difficult to forget an engaging video</p>
+            		<p>While we think the use of media is important and helpful, we also want to be clear that it does not replace the Bible or the importance of joining together as a congregation and singing with the accompaniment of the piano and other instruments.  At our church, we have a great balance and strive to make room for both.</p>
+            		<p>Please enjoy our picture slide shows at the top of the page and videos to the right.  Pictures include different members of the congregation, VBS photos, building and grounds and God's wonderful creation.  Please visit often because these photos and videos will be updated on a regular basis.</p>
+	    </section>
+	    <aside>
+	    		<p>Sermon of the Week</p>
+			<iframe allowfullscreen="0" width="250" height="180" controls
+			source src="https://www.youtube.com/embed/h9vOhB8njWQ">
+			</iframe>
+			<p>2019 VBS Theme</p>
+			<iframe allowfullscreen="0" width="250" height="180" controls
+			source src="https://www.youtube.com/embed/q82kUj8NQgw">
+			</iframe>     
+			<p>Praise and Worship Music</p>
+			<iframe allowfullscreen="0" width="250" height="180" controls
+			source src="https://www.youtube.com/embed/ELcpUq1W_bc">
+			</iframe>          
+	    </aside>
+6. The Bible
+
+	     <section>
+                <h1>The Bible</h1>
+                
+                	<p>At Mount Olive Baptist Church, we hold the Bible in high regard.  We believe that it is inerrant in its original manuscripts.  To us, it is not just a book to lay on our coffee tables, it is an essential part of our everyday lives.  But not only do we center our lives around the Bible, we center our services around it.  Here it is not enough for our messages to simply contain the Bible, we believe they must explain the Bible.</p>
+                	<p>Because of this firm belief, we seek to preach through the Bible book by book and verse by verse.  The Bible is the only book that will allow us to escape into the Lion's Den or the Flood or the Fiery Furnace while at the same time learning vital truths in which to live our lives.  In addition we find people who should be in despair because they are in prison yet to our surprise they are filed with joy and are seeking to help us find the same joy.  And let us not forget the amazing story of Jesus found in the gospel accounts which is part of the bigger story of the entirety of the Bible.</p>
+                	<p>Many have asked the question, is the Bible true? Or is it simply a book of made up stories?  And if it is true, does it really matter?  Is it important?  Dr. David Jeremiah who is the pastor of Shadow Mountain Church in El Cajon California  does a great job of talking about the importance of the Bible.  One remarkable truth he reminds us of is that the Bible is still the best selling book of all time and is the best seller every single year.  Please check out the video on the right.  Another great resource to check out is Lee Strobel.  Lee Strobel was an atheist and set out to disprove the Bible but the further he went along, the more he became convinced that it was true.  He recorded his journey in a book called "The Case for Christ".  Here is a link to his website: <a href="https://https://leestrobel.com/">Lee Strobel</a> <br></p>               
+	    </section>
+	     <aside>
+	    		<h3>Weekly Schedule</h3>
+	    		<h4>Sunday Morning</h4>
+                	<p>Sunday School - 10:00</p>
+                	<p>Worship Service - 11:00</p>
+                	<h4>Wednesday Evening</h4>
+                	<p>Mid Week Dinner - 5:00</p>
+                	<p>Worship Service - 6:00</p>
+                	<h4>Upcoming Events</h4>
+                	<p>Country Block Party <br> May 11th at 12:00 PM </p>
+                	<p>Vacation Bible School <br> Aug 5-7 from 6-8 PM </p>
+                	<h4>Sermon of the Week</h4>
+			<iframe allowfullscreen="0" width="250" height="160" controls
+			source src="https://www.youtube.com/embed/BBJnk28-T1w">
+			</iframe>		
+	    </aside>
+7. Contact Us
+	   <section>
+                	<h1>Contact Us</h1>
+                             
+                	<p>We hope you have enjoyed visiting our site.  We would like to extend the invitation for you to attend our services and find out more about us. We also understand that you may have some unanswered questions. You have come to the right place</p>
+                	<p>To the right, you will find the address and contact information.  Please call or email us anytime.  We are waiting to hear from you.  Or you can check out our Twitter feed and find out the latest happenings.</p>
+                	<p>If you need directions please click this link and enter your starting location <a href="https://www.google.com/maps/dir//google+maps+mount+olive+baptist+church+early+branch+sc/@32.8133331,-81.0724219,9z/data=!4m8!4m7!1m0!1m5!1m1!1s0x88f955d8abc843a9:0x11d3cff5ac93100b!2m2!1d-80.8984403!2d32.7760063"> Directions</a></p>
+                	<p>Finally, please check out our connecting links at the bottom of the page. Like Mount Olive, they exist to help others.</p>
+                	<p>For any other questions, please fill out and submit the form below</p>
+                	<div class="contact">
+			    <h2>Mount Olive Baptist Church Question Form</h2>
+			    <article>
+			        <form action="php, asp, js file that will run on the server">  
+			            <p>Name: <input type="text" name="full_name"></p>
+			            <p>Please provide us with any feedback or question you may have: <br>
+			            You will receive a response within 24 hours</p>
+			            <textarea name="message" rows="6" cols="80"></textarea>
+			            <p><button type="button" onclick="alert('Thank you! You will receive a response within 24 hours')">Submit</button></p>
+			        </form>
+			    </article>
+				</div>  <!-- end of contact section -->  
+	    </section>
+	    <aside>
+	    		<h3>Address</h3>
+	    		<h4>6581 Salkehatchie Rd<br>
+	                Early Branch, SC 29916<br></h4>
+	        	<h3>Contacts</h3>
+	    		<h4>Mr. Gilbert Heape <br>
+	    			Deacon
+	    			843-555-5555</h4>
+	    		<h4>Mrs. Hazel Smith <br>
+	    			Church Treasurer
+	    			843-555-2222</h4>
+            		<h3>Email</h3>
+	    		<h4>mtolivebaptist73@gmail.com</h4>
+	    		<div class="content">
+			<a class="twitter-timeline" data-width="250" data-height="300" href="https://twitter.com/BillyStockton4?ref_src=twsrc%5Etfw">Tweets by BillyStockton4</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+			</div>
+		</aside>	
+		<footer>
+			<div class="crosslinks">
+	        	Allendale-Hampton Baptist Association
+            		<a href="https://allendalehamptonbaptistassoc.org/">AHBA</a> <br>
+            		Hampton County Literacy Council
+            		<a href="http://hamptoncountyliteracy.weebly.com/">HCLC</a> <br>
+            		Hampton, South Carolina Food Pantries
+            		<a href="https://www.foodpantries.org/ci/sc-hampton">SCFP</a></p>
+            </div>
+	    </footer>
